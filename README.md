@@ -29,7 +29,7 @@ Estilo
 Canción que me gusta: (https://www.youtube.com/watch?v=iX-QaNzd-0Y)
 
 # Imagen
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Ffondosmil.com%2F4k&psig=AOvVaw3rJ4IBEylD19zW7VoxemLo&ust=1652461951675000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCtgOe62vcCFQAAAAAdAAAAABAD)
+![Playa](playa.jpg)
 
 
 # SemanaTecOct2021
