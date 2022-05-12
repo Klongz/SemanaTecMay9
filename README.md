@@ -23,13 +23,13 @@ Estilo
 🥉
 
 # Cita de Texto
-> ITESM
+> Todas las mañanas, levántate con la idea de comerte el mundo.
 
 # Enlace
-[GitHub Pages). (https://pages.github.com/)
+Canción que me gusta: (https://www.youtube.com/watch?v=iX-QaNzd-0Y)
 
 # Imagen
-! [GitHub Pagesl https://tec.mx/sites/default/files/repositorio/Home/tec-de-monterrey-newsroom.jpg)
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Ffondosmil.com%2F4k&psig=AOvVaw3rJ4IBEylD19zW7VoxemLo&ust=1652461951675000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCtgOe62vcCFQAAAAAdAAAAABAD)
 
 
 # SemanaTecOct2021
@@ -56,7 +56,7 @@ Puedes realizar una lista desordenada al anteceder una o más líneas de texto c
 - Calistenia 
 - Música
 - Escalada
-- 
+
 # Series favoritas
 1. Hora de aventura
 2. La Casa de Papel
